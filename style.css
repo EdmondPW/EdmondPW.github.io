@@ -25,3 +25,7 @@
     color: yellow;
   }
 }
+
+.flex-container {
+  display: flex;
+}
